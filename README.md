@@ -13,6 +13,7 @@ Atualmente, trilhei um novo caminho e me tornei uma apaixonada **Desenvolvedora 
 * Sou viciada em games desde que me entendo por gente 🎮;
 * Meu filme favorito é Interestelar 🌟;
 * Procuro evoluir constantemente na minha carreira de desenvolvedora 💼;
+* [Portfolio](https://my-portfolio-nine-phi-52.vercel.app/)
 
 ### Linguagens e ferramentas
 
