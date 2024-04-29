@@ -12,8 +12,7 @@ Atualmente, trilhei um novo caminho e me tornei uma apaixonada **Desenvolvedora 
 * Estou aprendendo uma nova linguagem: `Python` 🐍;
 * Sou viciada em games desde que me entendo por gente 🎮;
 * Meu filme favorito é Interestelar 🌟;
-* Procuro evoluir constantemente na minha carreira de desenvolvedora 💼;
-* [Portfolio](https://my-portfolio-nine-phi-52.vercel.app/)
+* Procuro evoluir constantemente na minha carreira de desenvolvedora 💼.
 
 ### Linguagens e ferramentas
 
@@ -26,3 +25,4 @@ Atualmente, trilhei um novo caminho e me tornei uma apaixonada **Desenvolvedora 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elisaborbaa@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elisaborbaa/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5548996337660)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://my-portfolio-nine-phi-52.vercel.app/)
