@@ -9,7 +9,7 @@ Atualmente, trilhei um novo caminho e me tornei uma apaixonada **Desenvolvedora 
 
 ### Conhecendo mais um pouco sobre mim
 * Sou apaixonada por animais (meu sonho é morar num sítio rodeada de bichanos) 🐶;
-* Estou aprendendo uma nova linguagem: `Python` 🐍;
+* Entusiasta em `Python` 🐍;
 * Sou viciada em games desde que me entendo por gente 🎮;
 * Meu filme favorito é Interestelar 🌟;
 * Procuro evoluir constantemente na minha carreira de desenvolvedora 💼.
